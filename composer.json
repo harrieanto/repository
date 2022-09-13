@@ -1,6 +1,6 @@
 {
 	"name": "repository_framework",
-	"description": "Repository Modern & Beautiful Micro PHP Framework",
+	"description": "PHP Framework Like Laravel",
 	"keywords": [ "Repository",  "PHP", "PHP Framework",  "Micro PHP Framework",  "Beauty",  "Modern",  "Simple",  "Framework" ],
 	"license": "MIT",
 	"authors":[
