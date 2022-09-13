@@ -1,0 +1,25 @@
+{
+	"name": "repository_framework",
+	"description": "Repository Modern & Beautiful Micro PHP Framework",
+	"keywords": [ "Repository",  "PHP", "PHP Framework",  "Micro PHP Framework",  "Beauty",  "Modern",  "Simple",  "Framework" ],
+	"license": "MIT",
+	"authors":[
+		{
+		   "name": "Harrieanto",
+		   "email": "harrieanto31@yahoo.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Repository\\Component\\": "framework"
+		}, 
+		"files": [
+			"framework/Support/helpers.php"
+		]
+	},
+	"require":{
+		"nesbot/carbon": "^1.22",
+		"psr/http-message": "^1.0",
+		"psr/log": "^1.0"
+	}
+}
